@@ -1,0 +1,57 @@
+﻿state,category,value
+NSW,3 doeses 16+,0.657
+NSW,2 doses 16+,0.953
+NSW,1 dose 16+,0.968
+NSW,2 doses 12+,0.944
+NSW,1 dose 12+,0.96
+NSW,2 doses total population,0.804
+NSW,1 dose total population,0.818
+VIC,3 doeses 16+,0.693
+VIC,2 doses 16+,0.944
+VIC,1 dose 16+,0.959
+VIC,2 doses 12+,0.939
+VIC,1 dose 12+,0.955
+VIC,2 doses total population,0.802
+VIC,1 dose total population,0.816
+QLD,3 doeses 16+,0.596
+QLD,2 doses 16+,0.929
+QLD,1 dose 16+,0.945
+QLD,2 doses 12+,0.915
+QLD,1 dose 12+,0.933
+QLD,2 doses total population,0.775
+QLD,1 dose total population,0.79
+SA,3 doeses 16+,0.703
+SA,2 doses 16+,0.939
+SA,1 dose 16+,0.96
+SA,2 doses 12+,0.931
+SA,1 dose 12+,0.952
+SA,2 doses total population,0.801
+SA,1 dose total population,0.82
+WA,3 doeses 16+,0.812
+WA,2 doses 16+,0.981
+WA,1 dose 16+,0.996
+WA,2 doses 12+,0.97
+WA,1 dose 12+,0.988
+WA,2 doses total population,0.819
+WA,1 dose total population,0.834
+TAS,3 doeses 16+,0.733
+TAS,2 doses 16+,0.995
+TAS,1 dose 16+,1.015
+TAS,2 doses 12+,0.985
+TAS,1 dose 12+,1.006
+TAS,2 doses total population,0.85
+TAS,1 dose total population,0.868
+NT,3 doeses 16+,0.695
+NT,2 doses 16+,0.888
+NT,1 dose 16+,0.913
+NT,2 doses 12+,0.878
+NT,1 dose 12+,0.907
+NT,2 doses total population,0.727
+NT,1 dose total population,0.751
+ACT,3 doeses 16+,0.806
+ACT,2 doses 16+,1.013
+ACT,1 dose 16+,1.03
+ACT,2 doses 12+,1.012
+ACT,1 dose 12+,1.029
+ACT,2 doses total population,0.854
+ACT,1 dose total population,0.869
