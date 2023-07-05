@@ -3,6 +3,7 @@ from dash import Dash, html, dcc, dash_table,Input, Output
 import dash_bootstrap_components as dbc
 
 app = dash.Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.SPACELAB])
+server = app.server
 sidebar = dbc.Nav(
             [
                 dbc.NavLink(
