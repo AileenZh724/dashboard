@@ -12,3 +12,4 @@ scipy
 seaborn
 wordcloud
 gunicorn
+IPython
